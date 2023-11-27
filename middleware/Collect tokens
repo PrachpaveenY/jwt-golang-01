@@ -1,0 +1,8 @@
+&{
+	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODU2OTA1ODMsInVzZXJJZCI6MX0._uwtWaDEdkRmvp8y8LOXGVmkltohnTXUBXkPNpDM5Fg 
+	0xc000010150 
+	map[alg:HS256 typ:JWT] 
+	map[exp:1.685690583e+09 userId:1] 
+	_uwtWaDEdkRmvp8y8LOXGVmkltohnTXUBXkPNpDM5Fg 
+	true
+}
